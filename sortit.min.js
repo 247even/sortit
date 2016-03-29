@@ -1,0 +1,1 @@
+!function(n){n.fn.sortit=function(r,u){return t=n(this),n.each(r,function(r,o){t.sort(function(t,r){var a=n(t).attr(o),c=n(r).attr(o);return i=-1,i2=1,u&&(i=1,i2=-1),c>a?i:a>c?i2:0})}),n(this).parent().html(t),t}}(jQuery);
