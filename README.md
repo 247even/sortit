@@ -1,5 +1,7 @@
 # sortit
+
 tiny, easy jquery sorting
+-------------------------
 
 Use...
  
